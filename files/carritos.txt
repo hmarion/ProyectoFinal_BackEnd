@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "timestamp": "5/12/2021 19:37:56",
+    "producto": [
+      {
+        "nombre": "Gin Oid Mortales",
+        "descripcion": "Gin",
+        "codigo": "B003",
+        "url": "https://tonicstore.com.ar/wp-content/uploads/2021/06/gin_oidmortales-768x768.jpg",
+        "precio": 1799,
+        "stock": 5,
+        "id": 1,
+        "timestamp": "5/12/2021 19:57:49"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "timestamp": "5/12/2021 19:44:59",
+    "producto": []
+  },
+  {
+    "id": 5,
+    "timestamp": "5/12/2021 19:45:00",
+    "producto": []
+  },
+  {
+    "id": 6,
+    "timestamp": "7/12/2021 13:29:26",
+    "producto": []
+  },
+  {
+    "id": 7,
+    "timestamp": "9/12/2021 20:39:57",
+    "producto": []
+  },
+  {
+    "id": 8,
+    "timestamp": "9/12/2021 20:41:34",
+    "producto": []
+  },
+  {
+    "id": 9,
+    "timestamp": "9/12/2021 20:41:34",
+    "producto": []
+  },
+  {
+    "id": 10,
+    "timestamp": "9/12/2021 20:42:59",
+    "producto": []
+  }
+]
