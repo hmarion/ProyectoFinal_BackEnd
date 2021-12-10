@@ -21,11 +21,6 @@
     "producto": []
   },
   {
-    "id": 5,
-    "timestamp": "5/12/2021 19:45:00",
-    "producto": []
-  },
-  {
     "id": 6,
     "timestamp": "7/12/2021 13:29:26",
     "producto": []
@@ -48,6 +43,11 @@
   {
     "id": 10,
     "timestamp": "9/12/2021 20:42:59",
+    "producto": []
+  },
+  {
+    "id": 11,
+    "timestamp": "9/12/2021 22:05:59",
     "producto": []
   }
 ]

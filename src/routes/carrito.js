@@ -21,6 +21,8 @@ router.post('/', (req, res)=>{
     })
 })
 
+
+//Dentro del body debo recibir los parametros id y stock
 router.post('/:id/productos', (req, res)=>{
     let num = parseInt(req.params.id);
     let producto = req.body;

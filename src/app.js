@@ -4,7 +4,7 @@ import carritoRouter from './routes/carrito.js';
 
 const app = express();
 
-const administrador = false;
+const administrador = true;
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(express.static('public'));
