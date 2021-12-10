@@ -1,7 +1,6 @@
-const Productos = require('../classes/productos');
-const express = require('express');
-const productosRouter = require('../routes/productos');
-const carritoRouter = require('../routes/carrito.js');
+import express from 'express';
+import productosRouter from './routes/productos.js';
+import carritoRouter from './routes/carrito.js';
 
 const app = express();
 
