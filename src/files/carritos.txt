@@ -12,6 +12,16 @@
         "stock": 5,
         "id": 1,
         "timestamp": "5/12/2021 19:57:49"
+      },
+      {
+        "id": 2,
+        "timestamp": "5/12/2021 20:42:11",
+        "nombre": "Agua Tonica Nina",
+        "descripcion": "Agua Tonica",
+        "codigo": "B001",
+        "url": "https://tonicstore.com.ar/wp-content/uploads/2021/06/ninaq_hibiscus-768x768.jpg",
+        "precio": 209,
+        "stock": 7
       }
     ]
   },
